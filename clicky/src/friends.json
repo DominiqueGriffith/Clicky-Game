@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "Half Life",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/fa/Half-Life_Cover_Art.jpg",
+      "platform": "PC",
+      "year": ""
+    },
+    {
+      "id": 2,
+      "name": "Final Fantasy VII",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c2/Final_Fantasy_VII_Box_Art.jpg",
+      "platform": "Playstation",
+      "year": ""
+    },
+    {
+      "id": 3,
+      "name": "Doom",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/57/Doom_cover_art.jpg",
+      "platform": "PC",
+      "year": ""
+    },
+    {
+      "id": 4,
+      "name": " Metal Gear Solid",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/33/Metal_Gear_Solid_cover_art.png",
+      "platform": "Playstation",
+      "year": ""
+    },
+    {
+      "id": 5,
+      "name": "Super Metroid",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/Smetroidbox.jpg",
+      "platform": "Super NES",
+      "year": ""
+    },
+    {
+      "id": 6,
+      "name": "Super Mario 64",
+      "image": "https://upload.wikimedia.org/wikipedia/sco/6/6a/Super_Mario_64_box_cover.jpg",
+      "platform": "N64",
+      "year": ""
+    },
+    {
+      "id": 7,
+      "name": "The Legend of Zelda: Ocarina of Time",
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/8e/The_Legend_of_Zelda_Ocarina_of_Time_box_art.png",
+      "platform": "N64",
+      "year": ""
+    },
+    {
+      "id": 8,
+      "name": "Super Mario World",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/32/Super_Mario_World_Coverart.png",
+      "platform": "Super NES",
+      "year": ""
+    },
+    {
+      "id": 9,
+      "name": "Tomb Raider",
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/69/Tomb_Raider_%281996%29.png",
+      "platform": "Playstation",
+      "year": ""
+    },
+    {
+      "id": 10,
+      "name": "Golden Eye",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/GoldenEye007box.jpg",
+      "platform": "N64",
+      "year": ""
+    },
+    {
+      "id": 11,
+      "name": "Sonic the Hedgehog 2",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/Sonic_2_US_Cover.jpg",
+      "platform": "Sega Genesis",
+      "year": ""
+    },
+    {
+      "id": 12,
+      "name": "Resident Evil",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a6/Resident_Evil_1_cover.png",
+      "platform": "Playstation",
+      "year": ""
+    }
+]
