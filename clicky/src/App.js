@@ -13,7 +13,7 @@ class App extends Component {
   shuffle = () => {
     const friends = this.state.friends
     var currentIndex = friends.length, temporaryValue, randomIndex;
-    // Fisher-Yates (aka Knuth) Shuffle Below
+    // Fisher-Yates (aka Knuth) Shuffle Below via Stack overflow
     
     while (0 !== currentIndex) {
 
